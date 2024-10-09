@@ -1,2 +1,3 @@
 # SoftwareEngineering_PasswordManager
-Test Finn
+
+Alex, Katya
