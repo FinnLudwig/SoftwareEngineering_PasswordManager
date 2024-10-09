@@ -1,3 +1,3 @@
 # SoftwareEngineering_PasswordManager
 
-Alex
+Alex, Katya
