@@ -1,3 +1,3 @@
 # SoftwareEngineering_PasswordManager
 
-Alex, Katya, Finn
+Alex, Katya, Finn, Hugo
