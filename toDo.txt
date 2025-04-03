@@ -1,0 +1,13 @@
+ToDo 
+
+
+Aufwandschätzung
+import/export csv/json
+Zeiten prüfen
+
+Software Verification Plan
+Autor?
+changelog
+
+UML Sequence Diagramm
+Methoden prüfen
