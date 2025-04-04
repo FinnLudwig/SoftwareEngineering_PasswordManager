@@ -1,13 +1,21 @@
 ToDo 
 
 
-Aufwandschätzung
+AufwandschÃ¤tzung
 import/export csv/json
-Zeiten prüfen
+Zeiten prÃ¼fen
 
 Software Verification Plan
 Autor?
 changelog
 
 UML Sequence Diagramm
-Methoden prüfen
+Methoden prÃ¼fen
+
+SE_3.Meeting: Auf richtige Namen achten!
+SE_2 Meeting: Fehlt
+
+Alle anderen Meetings: Erstellen und sinvoll mit Themen fÃ¼llen
+
+
+Alles in einer festgelegten Reihenfolge hochladen
